@@ -28,7 +28,7 @@
 - 📄 Presented a **technical paper** on Fish Species Classification using Deep Learning
 - 📊 Completed **Accenture North America Data Analytics Virtual Internship** (Forage)
 - 💼 Internships:  
-  - Web Development – **Codesoft**  
+  - Rook – **Social media**  
   - UI/UX Design – **Parkqwik**
 - 🌱 Internship Project – **Regenerative Agriculture** at Agnirva
 - 🤝 Organized multiple technical & outreach events as a student leader
