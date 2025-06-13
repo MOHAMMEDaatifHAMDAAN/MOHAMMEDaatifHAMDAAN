@@ -47,13 +47,13 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammedaatifhamdaan" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-aatif-hamdaan-b182a2249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/MOHAMMEDaatifHAMDAAN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:aatif2005.dev@gmail.com" target="_blank">
+  <a href="mailto:aatif.mohamed786@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
