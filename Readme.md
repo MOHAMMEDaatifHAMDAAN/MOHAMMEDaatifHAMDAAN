@@ -1,56 +1,45 @@
-
-…render **as plain code**, not actual visuals like GitHub stats.
-
-Let me fix that! Here's your **full advanced `README.md`** with **visual GitHub stat cards** (not inside a code block) and everything else properly formatted:
+# 👋 Hi, I'm Aatif!  
+### 🧑‍💻 Pre-final Year CSE Student | Passionate about AI, Backend & UI/UX  
 
 ---
 
-### ✅ Copy & paste this into your `README.md`:
+## 💼 About Me
 
-```md
-<h1 align="center">Hi 👋, I'm Mohammed Aatif Hamdaan</h1>
-<h3 align="center">🧠 AI Enthusiast | 🎨 UI/UX Designer | 👨‍💻 CSE Pre-final Year Student</h3>
-
----
-
-- 🎓 Pursuing **B.E. in Computer Science Engineering**
-- 🌱 Learning **Blockchain, TensorFlow, and API development**
-- 🔭 Projects: **Energy-efficient AI App**, **Fish Species Classifier**
-- 🧠 Passionate about combining **AI + Design** for real-world solutions
-- 📫 Reach me at **aatif2005.dev@gmail.com**
-- 🌐 Portfolio: *Coming soon...*
+- 🎓 I'm currently pursuing my B.E. in Computer Science Engineering  
+- 🌱 Actively learning Blockchain, TensorFlow, Flask APIs, and AI-powered systems  
+- 🔭 Building an **Energy Efficiency App** and a **Fish Species Classifier using CNNs**  
+- 🧠 Exploring the intersection of **AI, agriculture, and sustainability**  
+- ✍️ I enjoy writing and sharing tech thoughts on [LinkedIn](https://linkedin.com/in/mohammedaatifhamdaan)  
+- 💡 I'm passionate about building tools that blend usability + intelligence  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, Java  
-- **Frontend:** HTML, CSS, React, Tailwind, Figma  
-- **Backend:** Flask, Node.js  
-- **Database:** MySQL  
-- **Tools:** Power BI, Git, GitHub, VS Code, Postman  
+`Python` `JavaScript` `React` `Figma`  
+`Flask` `TensorFlow` `Power BI` `MySQL`  
+`HTML` `CSS` `Git` `GitHub` `Postman`
 
 ---
 
 ## 🚀 Projects & Achievements
 
-- 🏅 Finalist in **Smart India Hackathon**
-- 📊 Completed **Accenture Data Analytics Virtual Internship** (Forage)
-- 💼 Internships: Web Dev at Codesoft | UI/UX at Parkqwik
-- 📄 Presented **research paper on fish species classification**
-- 🌱 Completed **Agnirva Regenerative Agriculture Internship**
+- 🏅 Finalist – **Smart India Hackathon**
+- 📄 Presented a **technical paper** on Fish Species Classification using Deep Learning
+- 📊 Completed **Accenture North America Data Analytics Virtual Internship** (Forage)
+- 💼 Internships:  
+  - Web Development – **Codesoft**  
+  - UI/UX Design – **Parkqwik**
+- 🌱 Internship Project – **Regenerative Agriculture** at Agnirva
+- 🤝 Organized multiple technical & outreach events as a student leader
 
 ---
 
-## 📈 GitHub Stats (All-Time)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDaatifHAMDAAN&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDaatifHAMDAAN&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHAMMEDaatifHAMDAAN&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -58,8 +47,15 @@ Let me fix that! Here's your **full advanced `README.md`** with **visual GitHub 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammedaatifhamdaan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/MOHAMMEDaatifHAMDAAN"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/mohammedaatifhamdaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/MOHAMMEDaatifHAMDAAN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:aatif2005.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
