@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aatif!  
-### 🧑‍💻 Pre-final Year CSE Student | Passionate about AI, Backend & UI/UX  
+### 🧑‍💻final Year CSE Student | Passionate about AI, Backend & UI/UX  
 
 ---
 
